@@ -1,0 +1,26 @@
+# Local data and DB
+attendance.db
+data/data_faces_from_camera/
+data/features_all.csv
+
+# Dlib models (download separately; see README)
+# data/data_dlib/*.dat
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db

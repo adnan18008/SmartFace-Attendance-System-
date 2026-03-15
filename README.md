@@ -16,7 +16,7 @@ You can download the source code from GitHub to run it locally.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/face-recognition-attendance-system.git
+git clone https://github.com/adnan18008/face-recognition-attendance-system.git
 ```
 
 2. **Navigate to the project folder**
